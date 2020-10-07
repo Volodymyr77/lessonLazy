@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lessonLazy"
+    }
+  },
+  "defaultProject": "lessonLazy",
+  "cli": {
+    "analytics": false
+  }
 }
